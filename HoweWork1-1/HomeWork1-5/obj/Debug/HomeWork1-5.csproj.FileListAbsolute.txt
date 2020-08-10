@@ -1,0 +1,6 @@
+C:\Users\ADM.kryukov.vn\Documents\GeekBrains\C#\HoweWork1-1\HomeWork1-5\bin\Debug\HomeWork1-5.exe.config
+C:\Users\ADM.kryukov.vn\Documents\GeekBrains\C#\HoweWork1-1\HomeWork1-5\bin\Debug\HomeWork1-5.exe
+C:\Users\ADM.kryukov.vn\Documents\GeekBrains\C#\HoweWork1-1\HomeWork1-5\bin\Debug\HomeWork1-5.pdb
+C:\Users\ADM.kryukov.vn\Documents\GeekBrains\C#\HoweWork1-1\HomeWork1-5\obj\Debug\HomeWork1-5.csproj.CoreCompileInputs.cache
+C:\Users\ADM.kryukov.vn\Documents\GeekBrains\C#\HoweWork1-1\HomeWork1-5\obj\Debug\HomeWork1-5.exe
+C:\Users\ADM.kryukov.vn\Documents\GeekBrains\C#\HoweWork1-1\HomeWork1-5\obj\Debug\HomeWork1-5.pdb
