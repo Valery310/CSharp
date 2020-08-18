@@ -1,0 +1,11 @@
+C:\Users\valer\source\repos\HomeWork 7\HomeWork 7-2\bin\Debug\HomeWork 7-2.exe.config
+C:\Users\valer\source\repos\HomeWork 7\HomeWork 7-2\bin\Debug\HomeWork 7-2.exe
+C:\Users\valer\source\repos\HomeWork 7\HomeWork 7-2\bin\Debug\HomeWork 7-2.pdb
+C:\Users\valer\source\repos\HomeWork 7\HomeWork 7-2\obj\Debug\HomeWork 7-2.csprojAssemblyReference.cache
+C:\Users\valer\source\repos\HomeWork 7\HomeWork 7-2\obj\Debug\HomeWork_7_2.Form1.resources
+C:\Users\valer\source\repos\HomeWork 7\HomeWork 7-2\obj\Debug\HomeWork_7_2.Properties.Resources.resources
+C:\Users\valer\source\repos\HomeWork 7\HomeWork 7-2\obj\Debug\HomeWork 7-2.csproj.GenerateResource.cache
+C:\Users\valer\source\repos\HomeWork 7\HomeWork 7-2\obj\Debug\HomeWork 7-2.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\HomeWork 7\HomeWork 7-2\obj\Debug\HomeWork 7-2.exe
+C:\Users\valer\source\repos\HomeWork 7\HomeWork 7-2\obj\Debug\HomeWork 7-2.pdb
+C:\Users\valer\source\repos\HomeWork 7\HomeWork 7-2\obj\Debug\HomeWork_7_2.Form2.resources
